@@ -17,5 +17,5 @@ jobs:
         HUGO_VERSION: 0.80.0
         TARGET_REPO: diogoalexsmachado/nstargg-website
         TARGET_BRANCH: gh-pages
-        TOKEN: $TOKEN
+        TOKEN: ${{ secrets.GH_TOKEN }}
         CNAME: stg.nstargg.com
