@@ -1,0 +1,12 @@
+name = "nstar_3"
+features = ["Responsive", "One Column", "Blog"]
+min_version = "0.57.1"
+
+[author]
+  name = "watchTBK"
+  homepage = "https://tbk.digital/"
+
+[original]
+  name = ""
+  homepage = ""
+  repo = ""

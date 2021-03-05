@@ -1,3 +1,50 @@
-baseURL = "http://stg.nstargg.com/"
+#baseURL = "https://stg.nstargg.com/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
+
+title = "NSTAR"
+
+theme = "nstar"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+paginate = 5
+
+[permalinks]
+posts = "/posts/:year/:title/"
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
 title = "NSTARGG"
+description = "The star that guides you."
+author = "@watchTBK"
+defaultTheme = "dark"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+disableSpecial1stPost = false
+comments = false
+hidemeta = false
+showtoc = false
+tocopen = false
+
+[params.label]
+text = "Home"
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
