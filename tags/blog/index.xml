@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on NSTAR</title>
+    <link>https://stg.nstargg.com/tags/blog/</link>
+    <description>Recent content in blog on NSTAR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stg.nstargg.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my Blog</title>
+      <link>https://stg.nstargg.com/posts/2021/welcome-to-my-blog/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stg.nstargg.com/posts/2021/welcome-to-my-blog/</guid>
+      <description>Why? I always wanted to have a place where I can share longform writing without the restrictions of the mainstream plaftorms (like Medium, Wordpress and others) or the hassle of maintaining a self-hosted blogging platform like WordPress.org or Ghost and having to deal with security vulnerabilities.
+What am I gonna post here? Tutorials that are requested on my Discord and some helpful information that can be used to educational purposes, either in the gaming, streaming or software development world.</description>
+    </item>
+    
+  </channel>
+</rss>
