@@ -1,5 +1,5 @@
-#baseURL = "https://stg.nstargg.com/"
-baseURL = "http://localhost:1313/"
+baseURL = "https://stg.nstargg.com/"
+#baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 
 title = "NSTAR"
